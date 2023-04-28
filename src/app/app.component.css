@@ -1,0 +1,10 @@
+
+h2{
+    color : blue;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }

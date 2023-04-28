@@ -1,0 +1,177 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "krishna",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Hari",
+      "role": "user"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "hari",
+      "lastname": "krishna",
+      "email": "hari@gmail.com",
+      "dob": "2023-02-04T18:30:00.000Z",
+      "education": "MBA",
+      "company": "Google",
+      "experience": 4,
+      "package": 8.5,
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "firstname": "dhana",
+      "lastname": "laxmi",
+      "email": "dhana@gmail.com",
+      "dob": "1998-01-01T18:30:00.000Z",
+      "education": "BTech",
+      "company": "Google",
+      "experience": 3.5,
+      "package": 7.5,
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "firstname": "Manaswi",
+      "lastname": "Sai",
+      "email": "Sai@gmail.com",
+      "dob": "2023-02-05T18:30:00.000Z",
+      "education": "Graduation",
+      "company": "IBM",
+      "experience": 14,
+      "package": 32,
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "firstname": "krishna",
+      "lastname": "hari",
+      "email": "krishna@gmail.com",
+      "dob": "2023-02-04T18:30:00.000Z",
+      "education": "Graduation",
+      "company": "Google",
+      "experience": 2,
+      "package": 23,
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "firstname": "pani",
+      "lastname": "mari",
+      "email": "pani@gmail.com",
+      "dob": "2016-05-09T18:30:00.000Z",
+      "education": "BTech",
+      "company": "DevOps",
+      "experience": 12,
+      "package": 33,
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "firstname": "Inspector",
+      "lastname": "alias",
+      "email": "ins@gmail.com",
+      "dob": "1996-07-17T18:30:00.000Z",
+      "education": "BTech",
+      "company": "Mobile Programming",
+      "experience": 3.2,
+      "package": 9,
+      "gender": "Male",
+      "id": 8
+    },
+    {
+      "firstname": "Developer",
+      "lastname": "Dev",
+      "email": "Dev@gmail.com",
+      "dob": "2017-10-07T18:30:00.000Z",
+      "education": "MBA",
+      "company": "Teleperformance",
+      "experience": 1.9,
+      "package": 4.2,
+      "gender": "Male",
+      "id": 9
+    },
+    {
+      "firstname": "test",
+      "lastname": "testing",
+      "email": "xyz@gmail.com",
+      "dob": "2020-05-11T18:30:00.000Z",
+      "education": "Diploma",
+      "company": "Google",
+      "experience": 1.9,
+      "package": 5.6,
+      "gender": "Male",
+      "id": 10
+    },
+    {
+      "firstname": "Testing",
+      "lastname": "test",
+      "email": "test@gmail.com",
+      "dob": "1999-11-07T18:30:00.000Z",
+      "education": "Graduation",
+      "company": "tele",
+      "experience": 8,
+      "package": 18,
+      "gender": "Male",
+      "id": 11
+    },
+    {
+      "firstname": "Elsanki",
+      "lastname": "mint",
+      "email": "Mint@gmail.com",
+      "dob": "2000-11-29T18:30:00.000Z",
+      "education": "BTech",
+      "company": "Irobhi",
+      "experience": 3,
+      "package": 6.7,
+      "gender": "Female",
+      "id": 12
+    },
+    {
+      "firstname": "Mascow",
+      "lastname": "Isan",
+      "email": "Isan@gmail.com",
+      "dob": "1996-07-17T18:30:00.000Z",
+      "education": "Graduation",
+      "company": "IBM",
+      "experience": 21,
+      "package": 29,
+      "gender": "Male",
+      "id": 13
+    },
+    {
+      "firstname": "Professor",
+      "lastname": "Alan",
+      "email": "Alan@hest.com",
+      "dob": "1996-09-05T18:30:00.000Z",
+      "education": "BTech",
+      "company": "Mobile Programming",
+      "experience": 3.2,
+      "package": 8.5,
+      "gender": "Male",
+      "id": 14
+    }
+  ]
+}
