@@ -16,6 +16,7 @@ export class EmpAddEditComponent implements OnInit {
 
   empForm : FormGroup;
   data : any;
+  fullname : any;
 
   public Education = [
     'Diploma',

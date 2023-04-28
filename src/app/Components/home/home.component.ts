@@ -17,6 +17,8 @@ export class HomeComponent implements OnInit {
 
 
   public userdata : any ;
+  public home: any;
+  public town: any;
 
   displayedColumns: string[] = ['id', 'firstname', 'lastname', 'email','dob','education','company','experience','package','gender','action'];
   dataSource!: MatTableDataSource<any>;
