@@ -15,8 +15,9 @@ import { CoreserviceService } from 'src/app/core/coreservice.service';
 export class EmpAddEditComponent implements OnInit {
 
   empForm : FormGroup;
-  data : any;
+  //data : any;
   fullname : any;
+  data : any;
 
   public Education = [
     'Diploma',
