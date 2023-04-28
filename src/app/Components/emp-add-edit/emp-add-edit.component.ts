@@ -18,6 +18,8 @@ export class EmpAddEditComponent implements OnInit {
   //data : any;
   fullname : any;
   data : any;
+  
+  // dependency injection is used to inject the dependencies into the constructor 
 
   public Education = [
     'Diploma',

@@ -19,6 +19,8 @@ export class HomeComponent implements OnInit {
   public userdata : any ;
   public home: any;
   public town: any;
+  // Adding more variables in the file
+  // services are used to share information among all the components
 
   displayedColumns: string[] = ['id', 'firstname', 'lastname', 'email','dob','education','company','experience','package','gender','action'];
   dataSource!: MatTableDataSource<any>;
